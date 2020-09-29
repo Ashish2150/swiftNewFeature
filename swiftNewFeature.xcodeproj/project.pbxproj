@@ -15,6 +15,7 @@
 		750A255625221D6B003A9D96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 750A255425221D6B003A9D96 /* LaunchScreen.storyboard */; };
 		750A256125221D6B003A9D96 /* swiftNewFeatureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 750A256025221D6B003A9D96 /* swiftNewFeatureTests.swift */; };
 		750A256C25221D6B003A9D96 /* swiftNewFeatureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 750A256B25221D6B003A9D96 /* swiftNewFeatureUITests.swift */; };
+		751BBE3825236C19007E903D /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 751BBE3725236C19007E903D /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		750A256725221D6B003A9D96 /* swiftNewFeatureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftNewFeatureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		750A256B25221D6B003A9D96 /* swiftNewFeatureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftNewFeatureUITests.swift; sourceTree = "<group>"; };
 		750A256D25221D6B003A9D96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		751BBE3725236C19007E903D /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				750A255225221D6B003A9D96 /* Assets.xcassets */,
 				750A255425221D6B003A9D96 /* LaunchScreen.storyboard */,
 				750A255725221D6B003A9D96 /* Info.plist */,
+				751BBE3725236C19007E903D /* SecondViewController.swift */,
 			);
 			path = swiftNewFeature;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				751BBE3825236C19007E903D /* SecondViewController.swift in Sources */,
 				750A254E25221D68003A9D96 /* ViewController.swift in Sources */,
 				750A254A25221D68003A9D96 /* AppDelegate.swift in Sources */,
 				750A254C25221D68003A9D96 /* SceneDelegate.swift in Sources */,
